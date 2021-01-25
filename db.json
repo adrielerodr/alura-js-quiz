@@ -1,0 +1,20 @@
+{
+  "bg": "https://wallup.net/wp-content/uploads/2018/09/25/617724-JavaScript-minimalism-748x421.jpg",
+  "title": "Quiz JavaScript",
+  "description": "Teste os seus conhecimentos sobre JavaScript e divirta-se",
+  "questions": [],
+  "external": [
+    ""
+  ],
+  "theme": {
+    "colors": {
+      "primary": "#3f51b5",
+      "secondary": "#6573c3",
+      "mainBg": "#f8dc3c",
+      "contrastText": "#FFFFFF",
+      "wrong": "#f53e05",
+      "success": "#62b56d"
+    },
+    "borderRadius": "4px"
+  }
+}
